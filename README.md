@@ -1,5 +1,9 @@
-## Hi there 👋
+## My Tech blog 👋
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sihkang)](https://velog.io/@sihkang/posts)
+
+
+
+## My Language Ranking 🥇
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihkang)
 
 <!--
