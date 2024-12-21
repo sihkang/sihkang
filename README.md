@@ -4,7 +4,7 @@ Language : C, C++
 
 Graphics : openGL, GLSL
 
-Tools : Git, Makefile, CMake
+Tools : vim, Git, Makefile, CMake
 
 
 
