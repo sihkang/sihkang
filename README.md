@@ -1,10 +1,7 @@
 ## Skills
 
 Language : C, C++
-
-Graphics : openGL, GLSL
-
-Tools : vim, Git, Makefile, CMake
+Tools : vim, Git, Makefile, CMake, openGL
 
 
 
